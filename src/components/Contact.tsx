@@ -42,9 +42,10 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-brand-dark mb-1">Phone & WhatsApp</h4>
-                  <p className="text-gray-600 font-light text-sm">+91 6239550085</p>
+                  <p className="text-gray-600 font-light text-sm">+91 9592529908</p>
                   <p className="text-gray-600 font-light text-sm">+91 7986035683</p>
-                  <p className="text-gray-600 font-light text-sm">+91 95925 29908</p>
+                  <p className="text-gray-600 font-light text-sm">+91 6239550085</p>
+                  <p className="text-gray-600 font-light text-sm">+91 7986318552</p>
                 </div>
               </div>
 

@@ -64,7 +64,7 @@ export default function Footer() {
               <li className="flex flex-col gap-2 text-sm text-brand-light/70 mt-1">
                 <div className="flex items-center gap-3">
                   <span className="text-brand-gold font-medium">📞</span>
-                  +91 6239550085
+                  +91 9592529908
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-brand-gold font-medium opacity-0">📞</span>
@@ -72,7 +72,11 @@ export default function Footer() {
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-brand-gold font-medium opacity-0">📞</span>
-                  +91 95925 29908
+                  +91 6239550085
+                </div>
+                <div className="flex items-center gap-3">
+                  <span className="text-brand-gold font-medium opacity-0">📞</span>
+                  +91 7986318552
                 </div>
               </li>
               <li className="flex items-center gap-3 text-sm text-brand-light/70 mt-3">

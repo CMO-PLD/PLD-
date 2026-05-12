@@ -31,7 +31,7 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-medium mb-6">Quick Links</h4>
             <ul className="space-y-3">
-              {['Home', 'About Us', 'Services', 'Featured Properties', 'Contact'].map((link) => (
+              {['Home', 'About Us', 'Services', 'Contact'].map((link) => (
                 <li key={link}>
                   <a href={`#${link.toLowerCase().replace(' ', '-')}`} className="text-brand-light/70 hover:text-brand-gold transition-colors text-sm">
                     {link}
@@ -59,15 +59,25 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3 text-sm text-brand-light/70">
                 <MapPin className="w-5 h-5 text-brand-gold flex-shrink-0" />
-                <span>Sirhind Road, Fatehgarh Sahib,<br/>Punjab, India 140406</span>
+                <span>SIRHIND-CHANDIGARH HIGHWAY,<br/>village Bhairon Pur</span>
               </li>
-              <li className="flex items-center gap-3 text-sm text-brand-light/70">
-                <span className="text-brand-gold font-medium">📞</span>
-                +91 98765 43210
+              <li className="flex flex-col gap-2 text-sm text-brand-light/70 mt-1">
+                <div className="flex items-center gap-3">
+                  <span className="text-brand-gold font-medium">📞</span>
+                  +91 6239550085
+                </div>
+                <div className="flex items-center gap-3">
+                  <span className="text-brand-gold font-medium opacity-0">📞</span>
+                  +91 7986035683
+                </div>
+                <div className="flex items-center gap-3">
+                  <span className="text-brand-gold font-medium opacity-0">📞</span>
+                  +91 95925 29908
+                </div>
               </li>
-              <li className="flex items-center gap-3 text-sm text-brand-light/70">
+              <li className="flex items-center gap-3 text-sm text-brand-light/70 mt-3">
                 <span className="text-brand-gold font-medium">✉️</span>
-                info@punjablanddevelopers.com
+                cmo@punjablanddevelopers.in
               </li>
             </ul>
           </div>

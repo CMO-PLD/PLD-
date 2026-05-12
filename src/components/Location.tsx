@@ -32,9 +32,8 @@ export default function Location() {
         <div className="h-px w-full bg-gray-100 mb-4"></div>
         <p className="text-sm font-medium text-brand-dark mb-1">Punjab Land Developers</p>
         <p className="text-sm text-gray-500 font-light leading-relaxed">
-          Main Market, Sirhind Road,<br />
-          Fatehgarh Sahib,<br />
-          Punjab, India - 140406
+          SIRHIND-CHANDIGARH HIGHWAY,<br />
+          village Bhairon Pur
         </p>
       </div>
     </section>

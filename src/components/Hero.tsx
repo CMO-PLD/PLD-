@@ -47,11 +47,11 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="flex flex-col sm:flex-row gap-4 mt-8"
         >
-          <a href="#properties" className="group flex items-center justify-center gap-2 px-8 py-4 bg-brand-gold text-brand-darker font-semibold hover:bg-brand-gold-light transition-all duration-300 rounded-sm">
-            Explore Properties
+          <a href="#services" className="group flex items-center justify-center gap-2 px-8 py-4 bg-brand-gold text-brand-darker font-semibold hover:bg-brand-gold-light transition-all duration-300 rounded-sm">
+            Our Services
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </a>
-          <a href="https://wa.me/910000000000" target="_blank" rel="noopener noreferrer" className="group flex items-center justify-center gap-2 px-8 py-4 bg-transparent border border-white/30 text-white font-medium hover:bg-white/10 transition-all duration-300 rounded-sm backdrop-blur-sm">
+          <a href="https://wa.me/919592529908" target="_blank" rel="noopener noreferrer" className="group flex items-center justify-center gap-2 px-8 py-4 bg-transparent border border-white/30 text-white font-medium hover:bg-white/10 transition-all duration-300 rounded-sm backdrop-blur-sm">
             <MessageCircle className="w-5 h-5 text-green-400 group-hover:scale-110 transition-transform" />
             Contact on WhatsApp
           </a>

@@ -2,7 +2,6 @@ import React from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
 import Services from './components/Services';
-import Properties from './components/Properties';
 import Features from './components/Features';
 import Testimonials from './components/Testimonials';
 import Location from './components/Location';
@@ -15,7 +14,6 @@ export default function App() {
       <Hero />
       <About />
       <Services />
-      <Properties />
       <Features />
       <Testimonials />
       <Location />
